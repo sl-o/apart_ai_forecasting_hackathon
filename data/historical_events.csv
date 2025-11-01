@@ -1,0 +1,5 @@
+event_id,event_name,target_score
+montreal1987,Montreal Protocol,0.95
+covax2020,COVAX vaccine allocation,0.6
+gpu_coord2023,US-EU-JP GPU export controls,0.8
+media_spike_2024,Media panic no policy,0.2

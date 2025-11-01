@@ -1,0 +1,15 @@
+event_id,event_name,indicator_id,severity
+montreal1987,Montreal Protocol,capability_shock,0
+montreal1987,Montreal Protocol,incident_cluster,0
+montreal1987,Montreal Protocol,public_salience,2
+montreal1987,Montreal Protocol,finance_vehicle,1
+montreal1987,Montreal Protocol,feasibility_path,2
+covax2020,COVAX,capability_shock,0
+covax2020,COVAX,finance_vehicle,2
+covax2020,COVAX,feasibility_path,2
+covax2020,COVAX,public_salience,1
+gpu_coord2023,US-EU-JP GPU export controls,capability_shock,2
+gpu_coord2023,US-EU-JP GPU export controls,feasibility_path,1
+gpu_coord2023,US-EU-JP GPU export controls,public_salience,1
+media_spike_2024,Media panic no policy,public_salience,2
+media_spike_2024,Media panic no policy,finance_vehicle,0

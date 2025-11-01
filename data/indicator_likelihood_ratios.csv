@@ -1,0 +1,16 @@
+indicator_id,p_given_H,p_given_notH,k_ratio,description
+policy_window,0.25,0.25,1.0,Policy window 
+verifiable_threshold,0.25,0.25,1.0,Verifiable threshold ready 
+epistemic_infra,0.25,0.25,1.0,Epistemic infrastructure
+info_sharing,0.25,0.25,1.0,Information sharing
+verification_feasibility,0.25,0.25,1.0,Verification feasibility
+feasibility_path,0.75,0.5,1.5,Feasibility path for industry
+venue_depositary,0.25,0.25,1.0,Venue + depositary
+finance_vehicle,0.5,0.5,1.0,Finance vehicle ready
+geopolitical_alignment,0.25,0.25,1.0,Geopolitical alignment
+legal_plumbing,0.25,0.25,1.0,Legal plumbing
+capability_shock,0.5,0.25,2.0,Capability shock 
+incident_cluster,0.25,0.25,1.0,Incident cluster 
+epistemic_shift,0.25,0.25,1.0,Epistemic shift
+public_salience,0.75,0.75,1.0,Public salience
+resource_shift,0.25,0.25,1.0,Resource shift 
